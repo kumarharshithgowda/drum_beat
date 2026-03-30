@@ -61,12 +61,6 @@ git clone https://github.com/kumarharshithgowda/drum_beat.git
 
 ---
 
-## 📸 Demo
-
-*(Add screenshot here later)*
-
----
-
 ## 📌 Future Improvements
 
 * Add animations on button click
